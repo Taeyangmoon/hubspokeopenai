@@ -1,11 +1,11 @@
 Azure Hub & Spoke 아키텍처를 활용한 Azure OpenAI Service Private Endpoint 호출 가이드 워크샵
 ----------------------------------------------------------------------------
 
-### 소개
+## 소개
 
 본 워크샵은 Azure Hub & Spoke 네트워크 아키텍처를 기반으로, On-premise 환경에서 Azure OpenAI Service를 Private Endpoint를 통해 안전하게 호출하는 전체 과정을 단계별로 안내합니다. Azure Portal을 이용한 수동 구성 방법과 Azure CLI를 이용한 자동화 구성 방법을 병행하여 학습함으로써, Azure 네트워킹 및 서비스 구성에 대한 이해도를 높이는 것을 목표로 합니다.
 
-### 목표
+## 목표
 
 -   Azure Hub & Spoke 아키텍처 설계 및 구현 능력을 향상시킵니다.
 -   Site-to-Site VPN을 이용하여 On-premise와 Azure 간 네트워크 연결을 구성합니다.
